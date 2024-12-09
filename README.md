@@ -2,7 +2,7 @@
 
 **`Técnica Desenvolvimento de Sistemas`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Mariely Bragil, tenho 17 anos e sou natural do estado de SP. Concluí o ensino médio no SESI Bebedouro, com o curso técnico em Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu GitHub.
 
 <p align="left">
     <a href="https://github.com/Marrie713?tab=repositories&sort=stargazers">
@@ -93,7 +93,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marrie713&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Marrie713&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
