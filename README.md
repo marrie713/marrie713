@@ -87,7 +87,7 @@ Me chamo Mariely Bragil, tenho 17 anos e sou natural do estado de SP. Concluí o
 
 ### 📊 Estatísticas
 
-<p>
+<p display='flex'>
   <img 
     align="left" 
     alt="GitHub Stats" 
