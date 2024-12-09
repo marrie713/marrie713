@@ -2,7 +2,7 @@
 
 **`Técnica Desenvolvimento de Sistemas`**
 
-Me chamo Mariely Bragil, tenho 17 anos e sou do estado de SP. Concluí o ensino médio no SESI Bebedouro, com o curso técnico em Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu GitHub.
+Me chamo Mariely Bragil, tenho 17 anos e sou do estado de SP. Concluí o ensino médio no SESI Bebedouro, com o curso técnico em Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e compartilho meus projetos através do meu GitHub.
 
 <p align="left">
     <a href="https://github.com/Marrie713?tab=repositories&sort=stargazers">
