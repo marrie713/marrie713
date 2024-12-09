@@ -88,11 +88,12 @@ Me chamo Mariely Bragil, tenho 17 anos e sou natural do estado de SP. Concluí o
 ### 📊 Estatísticas
 
 <p>
+    <div display='flex'>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 40px;" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Marrie713&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
@@ -102,5 +103,6 @@ Me chamo Mariely Bragil, tenho 17 anos e sou natural do estado de SP. Concluí o
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrie713&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  </div>
 
 </p>
